@@ -1,0 +1,9 @@
+@charset "utf-8";
+@import "https://unpkg.com/ress/dist/ress.min.css";
+*{
+    box-sizing: border-box;
+}
+
+body{
+    color:#333;
+}
